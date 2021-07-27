@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculatingSchoolAverages</string>
+    <string name="app_title" translatable="false">SchoolAverageCalculator</string>
+    <string name="app_nameStudent">Name:</string>
+    <string name="app_note1">Note 1:</string>
+    <string name="app_faults">Faults:</string>
+    <string name="app_note2">Note 2:</string>
+    <string name="app_btnCalculate">Calculate</string>
+</resources>

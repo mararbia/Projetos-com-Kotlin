@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculatingSchoolAverages</string>
+    <string name="app_title">Calculadora de Média Escolar</string>
+    <string name="app_nameStudent">Nome:</string>
+    <string name="app_note1">Nota 1:</string>
+    <string name="app_note2">Nota 2:</string>
+    <string name="app_faults">Faltas:</string>
+    <string name="app_btnCalculate">Calcular</string>
+</resources>
