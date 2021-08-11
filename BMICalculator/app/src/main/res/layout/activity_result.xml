@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1">
+    <TableRow>
+
+        <TextView
+            android:gravity="center"
+            android:padding="3dip"
+            android:text="@string/app_tbClassification"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="@string/app_tbIMC"
+            android:gravity="center"
+            android:padding="8dip"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="@string/app_underWeight"
+            android:padding="3dip"
+            android:layout_marginStart="5dp"/>
+        <TextView
+            android:text="@string/app_txtIMC1"
+            android:gravity="end"
+            android:padding="3dip"
+            android:layout_marginEnd="5dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="@string/app_txtNormalWeight"
+            android:padding="3dip"
+            android:layout_marginStart="5dp"/>
+        <TextView
+            android:text="@string/app_txtIMC2"
+            android:gravity="end"
+            android:padding="3dip"
+            android:layout_marginEnd="5dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="@string/app_txtOverweight"
+            android:padding="3dip"
+            android:layout_marginStart="5dp"/>
+        <TextView
+            android:text="@string/app_txtIMC3"
+            android:gravity="end"
+            android:padding="3dip"
+            android:layout_marginEnd="5dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="@string/app_obesityI"
+            android:padding="3dip"
+            android:layout_marginStart="5dp"/>
+        <TextView
+            android:text="@string/app_IMC4"
+            android:gravity="end"
+            android:padding="3dip"
+            android:layout_marginEnd="5dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="@string/app_txtObesityII"
+            android:padding="3dip"
+            android:layout_marginStart="5dp"/>
+        <TextView
+            android:text="@string/app_IMC5"
+            android:gravity="end"
+            android:padding="3dip"
+            android:layout_marginEnd="5dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="@string/aoo_txtObesityII"
+            android:padding="3dip"
+            android:layout_marginStart="5dp"/>
+        <TextView
+            android:text="@string/app_IMC6"
+            android:gravity="end"
+            android:padding="3dip"
+            android:layout_marginEnd="5dp"/>
+    </TableRow>
+
+</TableLayout>
