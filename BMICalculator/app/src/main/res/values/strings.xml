@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="app_title">Calculadora de IMC</string>
+    <string name="app_weight">Peso:</string>
+    <string name="app_exampleWeight">Ex: 65 Kg</string>
+    <string name="app_height">Altura:</string>
+    <string name="app_exampleHeight">Ex: 1,70 m</string>
+    <string name="app_btnCalculate">Calcular</string>
+    <string name="app_tbClassification">Classificação</string>
+    <string name="app_tbIMC">IMC</string>
+    <string name="app_underWeight">Abaixo do peso</string>
+    <string name="app_txtIMC1">Abaixo de 18.5</string>
+    <string name="app_txtNormalWeight">Peso Normal</string>
+    <string name="app_txtIMC2">18,5 a 29,9</string>
+    <string name="app_txtOverweight">Sobrepeso</string>
+    <string name="app_txtIMC3">29 a 29,9</string>
+    <string name="app_obesityI">Obesidade Grau I</string>
+    <string name="app_txtObesityII">Obesidade Grau II</string>
+    <string name="aoo_txtObesityII">Obesidade Grau III ou Mórbida</string>
+    <string name="app_IMC4">30 a 34,9</string>
+    <string name="app_IMC5">35 a 39,9</string>
+    <string name="app_IMC6">Maior ou Igual a 40</string>
+    <string name="app_tbBtnClose">Fechar</string>
+</resources>
