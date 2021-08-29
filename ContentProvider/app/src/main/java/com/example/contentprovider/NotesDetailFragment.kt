@@ -67,7 +67,7 @@ class NotesDetailFragment: DialogFragment(), DialogInterface.OnClickListener {
     override fun onClick(dialog: DialogInterface?, which: Int) {
         val values = ContentValues()
         values.put(TITLE_NOTES, noteEditTitle.text.toString())
-        values.put(DESCRIPTION_NOTES, noteEditDescription.toString())
+        values.put(DESCRIPTION_NOTES, noteEditDescription.text.toString())
 
         if (id != 0L) {
             val uri = Uri.withAppendedPath(URI_NOTES, id.toString())
