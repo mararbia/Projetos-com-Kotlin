@@ -2,6 +2,7 @@
 - Calculating school averages
 - Content Provider
 - Integrated Content Provider
+- Notification
 
 # Projeto base recriado com adição de funcionalidades de minha autoria
 - BMI Calculator
