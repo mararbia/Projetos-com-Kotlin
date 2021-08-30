@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Integrated Content Provider</string>
+    <string name="app_client">App Client</string>
+    <string name="app_refresh">refresh</string>
+</resources>

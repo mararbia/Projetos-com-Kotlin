@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960965434355",
+    "project_id": "appnotificationsantander",
+    "storage_bucket": "appnotificationsantander.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960965434355:android:e65a2ed2e0ed7abb8a1086",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960965434355-lem9s3kn42bunink51fvcvhsvo1js83p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKaicspoRW1NhTkDyESmyADJRDHHiGp8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960965434355-lem9s3kn42bunink51fvcvhsvo1js83p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
