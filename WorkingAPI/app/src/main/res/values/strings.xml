@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WorkingAPI</string>
+    <string name="product_list_title">Lista de Produtos</string>
+    <string name="app_iv_images">Images</string>
 </resources>
