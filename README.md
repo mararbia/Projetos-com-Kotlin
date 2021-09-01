@@ -5,6 +5,7 @@
 - Integrated Content Provider
 - Notification
 - Working Api
+- CalendarApp
 
 # Projeto base recriado com adição de funcionalidades de minha autoria
 - BMI Calculator
