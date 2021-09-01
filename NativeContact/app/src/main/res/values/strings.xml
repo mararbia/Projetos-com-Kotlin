@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NativeContact</string>
+    <string name="text_view_name">Nome</string>
+    <string name="text_view_phone">Telefone</string>
+</resources>
