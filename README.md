@@ -6,6 +6,8 @@
 - Notification
 - Working Api
 - CalendarApp
+- NativeContact
+- PhotoLibrary
 
 # Projeto base recriado com adição de funcionalidades de minha autoria
 - BMI Calculator
